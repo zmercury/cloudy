@@ -1,0 +1,1 @@
+export { default as CloudyImage } from "./cloudy.jpg";
